@@ -15,7 +15,8 @@
 ![Data Analytics with Python](https://user-images.githubusercontent.com/41124746/179345389-e506c87f-da33-4c27-904e-77e5ab5039df.jpg)
 
 ## 5) NPTEL SuperStar
-Featured in the NPTEL website as a NPTEL SuperStar
+Featured in the NPTEL website as a NPTEL SuperStar for Jan-2022 to Apr-2022
+
 ![NPTEL SUPERSTAR](https://user-images.githubusercontent.com/41124746/179345407-2408d14c-60f2-4870-bb66-e773d8be9a31.jpg)
 
 # Kaggle certificates
