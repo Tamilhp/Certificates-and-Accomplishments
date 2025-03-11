@@ -27,6 +27,4 @@ Featured in the NPTEL website as a NPTEL SuperStar for Jan-2022 to Apr-2022
 ## 7) Feature Engineering
 ![Tamil Selvan - Feature Engineering](https://user-images.githubusercontent.com/41124746/179345414-8ff45562-4c46-4884-b940-1756991e0c88.png)
 
-Apart from thses I have completed few courses in Coursera and CodeWithMosh but yet to receive certificates.
-
-The soft copies of the certificates can be accessed [here](https://drive.google.com/drive/folders/1KsHJaaTtG6LLex12xxorX0H_TIGhXCQA?usp=sharing)👈
+Apart from thses I have completed few courses in Coursera and CodeWithMosh.
